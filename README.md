@@ -1,4 +1,4 @@
-![Profile Image](PIC3.JPG)
+![Profile Image](PIC3.Jpg)
  < h1 align="center">Hi 👋, I'm Hanzala Ghani</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -20,6 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devhanzala&show_icons=true&locale=en&layout=compact" alt="devhanzala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devhanzala&show_icons=true&locale=en" alt="devhanzala" /></p>
-![PIC3](https://github.com/DevHanzala/DevHanzala/assets/152677354/64c92cba-6e25-4d1e-a9f7-004c56effae7)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devhanzala&" alt="devhanzala" /></p>
