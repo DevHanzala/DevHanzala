@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 **Currently in my 3rd year of Computer Science**  
-- 👨‍💻 **Check out my [Portfolio](https://personal-portfolio-coral-two.vercel.app/)**  
+- 👨‍💻 **Check out my [Portfolio](https://personal-portfolio-hqpc.vercel.app/)**  
 - 📄 **View my [Resume](https://www.dropbox.com/scl/fi/moyp7ac7y0pr206hk0heq/Hanzala_Resume.pdf?rlkey=x1awjvfkg7zi5gwmvof9o2fta&dl=0)**  
 - 📫 **Reach me at:** hanzalaghaniabdulghani@gmail.com  
 - ⚡ **Fun fact:** Keyboard shortcuts are a way of life ✌  
