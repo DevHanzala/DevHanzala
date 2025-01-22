@@ -9,7 +9,7 @@
 
 - 🌱 **Currently in my 3rd year of Computer Science**  
 - 👨‍💻 **Check out my [Portfolio](https://personal-portfolio-hqpc.vercel.app/)**  
-- 📄 **View my [Resume](https://www.dropbox.com/scl/fi/moyp7ac7y0pr206hk0heq/Hanzala_Resume.pdf?rlkey=x1awjvfkg7zi5gwmvof9o2fta&dl=0)**  
+- 📄 **View my [Resume](https://www.dropbox.com/scl/fi/gi7rv9y50kihiwr3en0jd/Hanzala-Ghani_Resume.pdf?rlkey=6hfdc1cim3u6qdfwl0sve9a2l&e=1&st=eyzmgx01&dl=0)**  
 - 📫 **Reach me at:** hanzalaghaniabdulghani@gmail.com  
 - ⚡ **Fun fact:** Keyboard shortcuts are a way of life ✌  
 - 🚀 **Specialized in:** Full Stack Development, React.js, Firebase, Node.js, and Express.js  
