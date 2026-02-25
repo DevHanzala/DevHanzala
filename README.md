@@ -59,7 +59,7 @@ Final year BSc Computer Science student at UBIT, University of Karachi (Badge of
 ![Vercel](https://img.shields.io/badge/Vercel-065f46?style=flat-square&logo=vercel&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-059669?style=flat-square&logo=github-actions&logoColor=white)
 
-**AI & Machine Learning**
+**AI Integrations**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-047857?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-065f46?style=flat-square&logo=chainlink&logoColor=white)
