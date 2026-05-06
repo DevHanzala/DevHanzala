@@ -13,9 +13,8 @@
 
 </div>
 
----
 
-## About
+ About
 
 Software engineer and freelancer specializing in architecting and delivering complete, production-grade digital products. My work spans **SaaS platforms**, web and mobile applications, **AI-integrated systems**, **ERP/CRM deployments**, and full **cloud infrastructure**  built for real-world scale and reliability.
 
