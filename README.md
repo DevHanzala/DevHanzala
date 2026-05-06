@@ -13,9 +13,6 @@
 
 </div>
 
-
- About
-
 Software engineer and freelancer specializing in architecting and delivering complete, production-grade digital products. My work spans **SaaS platforms**, web and mobile applications, **AI-integrated systems**, **ERP/CRM deployments**, and full **cloud infrastructure**  built for real-world scale and reliability.
 
 I take ownership across the full product lifecycle: system design, backend infrastructure, API development, cloud provisioning, messaging architecture, and ongoing optimization. On the AI side I build with LLM integrations, vector search, RAG pipelines, OCR, embeddings, MCP servers, and model fine-tuning  systems that go beyond simple UI wrappers. On the infrastructure side I provision and manage VPS, shared hosting, and multi-cloud environments (AWS · GCP · Azure), and deploy Odoo, ERPNext, Frappe, and custom ERP/CRM systems for production teams.
@@ -118,15 +115,6 @@ Scalable Architecture   →  Microservices, event-driven (Kafka / BullMQ), Redis
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevHanzala&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=10b981&dates=6e7681)
 
 </div>
-
----
-
-## Education
-
-**BSc Computer Science**  UBIT, University of Karachi · Batch 2026
-Active specialization track: **Cybersecurity** (Network Security · Ethical Hacking · Cryptography)
-
----
 
 <div align="center">
 
