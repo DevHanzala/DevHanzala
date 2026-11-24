@@ -1,8 +1,12 @@
-<div align="center">
- Hanzala Ghani
 
-### Software Engineer | Full Stack & Cloud Engineer | AI Systems
+<div align="center">
+
+<h1><strong>HANZALA GHANI</strong></h1>
+
+<h3>Software Engineer | Full Stack & Cloud Engineer | AI Systems</h3>
+
 </div>
+
 
 <div align="center">
 
