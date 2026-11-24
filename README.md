@@ -1,157 +1,207 @@
-<div align="center">
-
 # Hanzala Ghani
 
-**Software Engineer · SaaS & Platform Architect · Freelancer**
+### Software Engineer | Full Stack & Cloud Engineer | AI Systems
 
+<div align="center">
 
+**BUILDING PRODUCTION SYSTEMS · ENGINEERING AT SCALE · TURNING IDEAS INTO PRODUCTS**
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevHanzala&label=Profile+Views&color=10b981&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzala-ghani001/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10b981?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-hqpc.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hanzalaghaniabdulghani@gmail.com)
+<a href="https://www.linkedin.com/in/hanzala-ghani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://personal-portfolio-hqpc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel" /></a>
+<a href="mailto:hanzalaghaniabdulghani@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
+<a href="https://github.com/DevHanzala"><img src="https://img.shields.io/badge/GitHub-DevHanzala-181717?style=for-the-badge&logo=github" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=DevHanzala&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
 
 </div>
 
-Software engineer and freelancer specializing in architecting and delivering complete, production-grade digital products. My work spans **streaming/media platforms**, **SaaS products**, cross-platform mobile & TV applications, **AI-integrated systems**, **ERP/CRM deployments**, and full **cloud & VPS infrastructure**  built for real-world scale, reliability, and paying customers, not just prototypes.
+---
 
-I take ownership across the full product lifecycle: system design, backend infrastructure, API development, payment & billing integration, real-time media delivery, identity verification & compliance, GPU-backed processing, VPS/server provisioning, and ongoing optimization. On the AI side I build with LLM integrations, vector search, RAG pipelines, OCR, embeddings, MCP servers, and model fine-tuning  systems that go beyond simple UI wrappers. On the infrastructure side I provision and manage VPS, dedicated GPU servers, shared hosting, and multi-cloud environments (AWS · GCP · Azure), and deploy Odoo, ERPNext, Frappe, and custom ERP/CRM systems for production teams.
+## About Me
 
-Final year BSc Computer Science student at UBIT, University of Karachi (Batch 2026)  active specialization track in **Cybersecurity**.
+Software Engineer and Computer Science graduate from **UBIT, University of Karachi**, specializing in full stack engineering, cloud infrastructure, distributed systems and AI integration.
+
+I take products through the complete software development lifecycle, from system architecture and backend engineering to deployment, security and production maintenance.
+
+My experience includes production OTT platforms, SaaS applications, GPU-powered AI pipelines, enterprise ERP/CRM deployments, payment ecosystems and cross-platform TV applications.
+
+**Core Focus**
+
+<table>
+<tr>
+<td width="50%">
+
+**Full Stack & SaaS**  
+Product architecture, React, Node.js, APIs and databases.
+
+**Cloud & DevOps**  
+AWS, Google Cloud, VPS, GPU servers and Linux infrastructure.
+
+**AI Engineering**  
+LLMs, RAG, OCR, embeddings, vector search and MCP.
+
+</td>
+<td width="50%">
+
+**OTT & Media Systems**  
+HLS, DRM, live ingest, transcoding and CDN delivery.
+
+**Enterprise Solutions**  
+ERPNext, Odoo, Frappe, billing and integrations.
+
+**System Engineering**  
+Distributed architecture, queues, security and testing.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## Featured Production Work
 
-**Languages**
+### TV-ish | Full Stack & Cloud Engineer
+<sub>JANUARY 2026 · PRODUCTION OTT STREAMING PLATFORM</sub>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-064e3b?style=flat-square&logo=javascript&logoColor=fbbf24)
-![TypeScript](https://img.shields.io/badge/TypeScript-065f46?style=flat-square&logo=typescript&logoColor=3b82f6)
-![Python](https://img.shields.io/badge/Python-064e3b?style=flat-square&logo=python&logoColor=fbbf24)
-![C++](https://img.shields.io/badge/C++-047857?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-052e16?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-064e3b?style=flat-square&logo=gnubash&logoColor=white)
+Building and operating a complete OTT ecosystem across four application surfaces.
 
-**Web & Mobile Frameworks**
+**Viewer & Creator Web App · Admin Panel · Landing Website · Fire TV / Android TV App**
 
-![React](https://img.shields.io/badge/React-047857?style=flat-square&logo=react&logoColor=06b6d4)
-![Next.js](https://img.shields.io/badge/Next.js-052e16?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-065f46?style=flat-square&logo=react&logoColor=06b6d4)
-![Expo](https://img.shields.io/badge/Expo-064e3b?style=flat-square&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-059669?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-052e16?style=flat-square&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-047857?style=flat-square&logo=vite&logoColor=white)
-![Android TV](https://img.shields.io/badge/Android_TV-064e3b?style=flat-square&logo=androidstudio&logoColor=3ddc84)
+| Engineering Domain | Production Implementation |
+|:--|:--|
+| Application Development | React, Vite, React Native, TypeScript, Kotlin, TV remote navigation |
+| Backend Architecture | Node.js, Express, Redis, BullMQ, distributed services |
+| Cloud Infrastructure | AWS EC2, dedicated RTX 5060 GPU server, Tailscale, Nginx, PM2 |
+| Live Streaming | OBS Studio, MediaMTX, LiveKit, WebRTC, dedicated ingest server |
+| Video Delivery | HLS, Cloudflare R2, CDN, FFmpeg, GPU transcoding |
+| DRM & Content Security | ExpressPlay, Widevine, FairPlay, Shaka Packager |
+| AI Media Pipeline | Whisper Large-v3, NLLB-200, XTTS-v2, Stable Diffusion, NudeNet, Sightengine, MediaPipe |
+| Monetization & Identity | Stripe, Stripe Connect, Chargebee, WorldPay, Persona KYC |
+| Security | MFA, Supabase Auth, RLS, content moderation, parental controls, age-gating |
 
-**Databases**
+**Production AI capabilities:** Captions in 99+ languages, translation, voice-cloned dubbing in 16 languages, artwork generation, content safety and smart thumbnails.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d9488?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=flat-square&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-064e3b?style=flat-square&logo=mariadb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-047857?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-059669?style=flat-square&logo=firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-065f46?style=flat-square&logo=redis&logoColor=white)
+### Gradix | AI-Powered Assessment Platform
+<sub>FINAL YEAR PROJECT · TEAM LEAD · TEAM OF 4</sub>
 
-**VPS, Servers & Hosting**
+Multilingual assessment platform generating unique AI-powered question sets for individual students from shared learning materials.
 
-![VPS Hosting](https://img.shields.io/badge/VPS_Hosting-047857?style=flat-square&logo=linode&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-052e16?style=flat-square&logo=digitalocean&logoColor=0080ff)
-![cPanel](https://img.shields.io/badge/cPanel_%2F_Shared_Hosting-064e3b?style=flat-square&logo=cpanel&logoColor=ff6c2c)
-![SSH](https://img.shields.io/badge/SSH_%2F_Server_Hardening-065f46?style=flat-square&logo=gnu-bash&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2_%2F_systemd-059669?style=flat-square&logo=pm2&logoColor=white)
-![Domain & DNS](https://img.shields.io/badge/Domain_%2F_DNS_%2F_SSL-052e16?style=flat-square&logo=cloudflare&logoColor=white)
+- Document ingestion, OCR and semantic retrieval using Tesseract.js, embeddings and PostgreSQL pgvector.
+- Gemini and Groq integration supporting English, Urdu, Arabic and Persian with full RTL support.
+- Examination integrity through single attempts, server-side timers, autosave and negative marking.
+- Four-tier RBAC, print-ready examination papers and performance reporting.
+- **108 automated Jest/Supertest tests.**
 
-**Cloud, DevOps & Infrastructure**
+<sub>React · Node.js · Express · PostgreSQL · Neon · pgvector · Gemini · Groq · Firebase Auth · Puppeteer</sub>
 
-![AWS](https://img.shields.io/badge/AWS-065f46?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-047857?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-064e3b?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-065f46?style=flat-square&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-047857?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-052e16?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-064e3b?style=flat-square&logo=linux&logoColor=fbbf24)
-![WSL](https://img.shields.io/badge/WSL2-047857?style=flat-square&logo=windows&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-064e3b?style=flat-square&logo=redhat&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-065f46?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-052e16?style=flat-square&logo=render&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-064e3b?style=flat-square&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-059669?style=flat-square&logo=github-actions&logoColor=white)
+### Other Client Projects
 
-**GPU & High-Performance Compute**
-
-![CUDA](https://img.shields.io/badge/CUDA-052e16?style=flat-square&logo=nvidia&logoColor=76b900)
-![GPU Servers](https://img.shields.io/badge/Dedicated_GPU_Servers-064e3b?style=flat-square&logo=nvidia&logoColor=76b900)
-![GPU Transcoding](https://img.shields.io/badge/GPU_Video_Transcoding-047857?style=flat-square&logo=ffmpeg&logoColor=white)
-![ML Inference](https://img.shields.io/badge/ML_Inference_Servers-065f46?style=flat-square&logo=pytorch&logoColor=white)
-
-**Real-Time, Media & Streaming**
-
-![WebRTC](https://img.shields.io/badge/WebRTC-065f46?style=flat-square&logo=webrtc&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-047857?style=flat-square&logo=livekit&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-052e16?style=flat-square&logo=ffmpeg&logoColor=white)
-![HLS](https://img.shields.io/badge/HLS_Streaming-064e3b?style=flat-square&logo=videojs&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-059669?style=flat-square&logo=socket.io&logoColor=white)
-
-**Payments, Billing & Identity**
-
-![Stripe](https://img.shields.io/badge/Stripe-065f46?style=flat-square&logo=stripe&logoColor=white)
-![Stripe Connect](https://img.shields.io/badge/Stripe_Connect-064e3b?style=flat-square&logo=stripe&logoColor=white)
-![Chargebee](https://img.shields.io/badge/Chargebee-047857?style=flat-square&logo=chargebee&logoColor=white)
-![WorldPay](https://img.shields.io/badge/WorldPay-052e16?style=flat-square&logo=worldpay&logoColor=white)
-![KYC](https://img.shields.io/badge/KYC_%2F_Identity_Verification-059669?style=flat-square&logo=auth0&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhook_Architecture-065f46?style=flat-square&logo=webhooks&logoColor=white)
-
-**Messaging & Queues**
-
-![Kafka](https://img.shields.io/badge/Kafka-064e3b?style=flat-square&logo=apache-kafka&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-065f46?style=flat-square&logo=redis&logoColor=white)
-
-**Source Control**
-
-![GitHub](https://img.shields.io/badge/GitHub-052e16?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-064e3b?style=flat-square&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-047857?style=flat-square&logo=git&logoColor=white)
-
-**ERP, CRM & Frameworks**
-
-![Odoo](https://img.shields.io/badge/Odoo-065f46?style=flat-square&logo=odoo&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-047857?style=flat-square&logo=frappe&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe_Framework-064e3b?style=flat-square&logo=frappe&logoColor=white)
-![Custom CRM](https://img.shields.io/badge/Custom_CRM-052e16?style=flat-square&logo=salesforce&logoColor=white)
-
-**AI, LLM & Integrations**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-047857?style=flat-square&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Claude_API-064e3b?style=flat-square&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-052e16?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-052e16?style=flat-square&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-065f46?style=flat-square&logo=chainlink&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-064e3b?style=flat-square&logo=pinecone&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-047857?style=flat-square&logo=huggingface&logoColor=white)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-059669?style=flat-square&logo=pytorch&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR_Pipelines-052e16?style=flat-square&logo=google&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-065f46?style=flat-square&logo=openai&logoColor=white)
-![Agents](https://img.shields.io/badge/AI_Agents-064e3b?style=flat-square&logo=probot&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP_Servers-047857?style=flat-square&logo=anthropic&logoColor=white)
+| Project | Engineering Highlights |
+|:--|:--|
+| **CoCoLaw.ai** | AI legal assistant, consultation booking, video calls, case management and secure document handling |
+| **Mehfooz Travels** | Hajj and Umrah booking platform, package management and inquiry workflows |
 
 ---
 
-## What I Build
+## Technical Arsenal
 
-```
-Streaming & Media Platforms  →  OTT/TV apps, live streaming (LiveKit/WebRTC), HLS video pipelines,
-                                 GPU-accelerated transcode workers, multi-device playback (mobile, web, Android TV)
-SaaS Platforms                →  End-to-end: schema design → auth → billing → multi-tenancy → launch
-Payments & Compliance         →  Stripe / Stripe Connect / Chargebee / WorldPay billing, subscription & payout
-                                 flows, KYC/identity verification pipelines (Persona), webhook systems
-AI-Integrated Systems         →  LLM pipelines, RAG, OCR, vector search, agents, MCP server integrations
-VPS & GPU Infrastructure      →  VPS provisioning & hardening, dedicated GPU servers for transcoding & AI
-                                 inference, AWS / GCP / Azure, R2/S3 storage, Kafka event streaming, Nginx
-ERP & CRM Deployments         →  Odoo, ERPNext, Frappe, NextERP — custom modules, migrations, managed hosting
-Mobile & TV Applications      →  React Native & Expo — cross-platform, Android TV/Fire TV, offline-ready,
-                                 push notifications, D-pad/remote-navigation UX
-Scalable Architecture         →  Microservices, event-driven (Kafka / BullMQ), Redis caching, CI/CD pipelines
-```
+### Languages & Application Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin)
+
+### Backend, Databases & Messaging
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)
+![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+
+### Cloud, Infrastructure & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud)
+![Google Cloud Console](https://img.shields.io/badge/GCP_Console-4285F4?style=flat-square&logo=googlecloud)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel)
+
+VPS Provisioning · SSH · Server Hardening · SSL · DNS · Dedicated GPU Servers · CUDA · systemd · WSL2 · Red Hat
+
+### AI, LLM & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Pinecone](https://img.shields.io/badge/Pinecone-black?style=flat-square)
+
+LLMs · RAG · Vector Search · Embeddings · OCR · AI Agents · MCP Servers · Tool Calling · Fine-tuning · Local LLMs · GPU Inference
+
+### Streaming, Media & Content Protection
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)
+![MediaMTX](https://img.shields.io/badge/MediaMTX-334155?style=flat-square)
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=flat-square&logo=obsstudio)
+![LiveKit](https://img.shields.io/badge/LiveKit-4B44CE?style=flat-square&logo=livekit)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
+![Shaka Packager](https://img.shields.io/badge/Shaka_Packager-4285F4?style=flat-square)
+![Widevine](https://img.shields.io/badge/Widevine-4285F4?style=flat-square)
+![FairPlay](https://img.shields.io/badge/FairPlay-555555?style=flat-square)
+![ExpressPlay](https://img.shields.io/badge/ExpressPlay-334155?style=flat-square)
+
+HLS · Live Ingest · OBS Workflows · CDN · GPU Transcoding · Fire TV · Android TV · TV Remote Navigation
+
+### Payments, Enterprise & Security
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe)
+![Chargebee](https://img.shields.io/badge/Chargebee-FF6D00?style=flat-square)
+![WorldPay](https://img.shields.io/badge/WorldPay-0072CE?style=flat-square)
+![Persona](https://img.shields.io/badge/Persona_KYC-1E293B?style=flat-square)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=frappe)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe)
+
+Stripe Connect · Creator Payouts · Subscription Billing · KYC · Webhooks · ERP/CRM · JWT · MFA · RLS · API Security
+
+### Testing & Development Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest)
+![Supertest](https://img.shields.io/badge/Supertest-333333?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab)
 
 ---
 
@@ -159,12 +209,32 @@ Scalable Architecture         →  Microservices, event-driven (Kafka / BullMQ),
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevHanzala&theme=tokyonight&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=10b981&dates=6e7681)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevHanzala&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHanzala&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevHanzala&theme=tokyonight&hide_border=true" />
 
 </div>
 
+---
+
+## Education & Leadership
+
+**BS Computer Science** · UBIT, University of Karachi · 2026
+
+**Team Lead, Gradix:** Leading a four-member development team, coordinating technical planning, architecture, implementation and testing.
+
+---
+
 <div align="center">
 
-*Building production systems · Delivering end-to-end solutions · Engineering for scale*
+### LET'S ENGINEER WHAT'S NEXT
+
+Open to Software Engineering, Full Stack, Cloud and AI Engineering opportunities.
+
+<a href="mailto:hanzalaghaniabdulghani@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hanzala-ghani"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+*Architecting · Engineering · Deploying · Scaling*
 
 </div>
